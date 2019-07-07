@@ -14,25 +14,25 @@ Tiempo de elaboración: de 05 de julio a 12 de julio
 
 Recolección inicial de datos, con el objetivo de establecer un primer contacto con el problema, identificar su calidad y establecer las  relaciones más evidentes que permitan definir las primeras hipótesis.
 
-Tiempo de elaboración
+Tiempo de elaboración:
 
 ### Fase 3: Preparación de los datos
 
 Incluye las tareas generales de selección de datos a los que se va a aplicar una determinada técnica de modelado, limpieza de datos, generación de variables adicionales, integración de diferentes orígenes de datos y cambios de formato
 
-Tiempo de elaboración
+Tiempo de elaboración:
 
 ### Fase 4: Modelado
 
 Seleccionar las técnicas de modelado más apropiadas para el proyecto de Data Mining específico
 
-Tiempo de elaboración
+Tiempo de elaboración:
 
 ### Fase 5: Evaluación
 
 Evaluar el modelo, teniendo en cuenta el cumplimiento de los criterios de éxito del problema. Debe  considerarse  además, que la  fiabilidad  calculada para el modelo se aplica solamente para los datos sobre los que se realizó el anális
 
-Tiempo de elaboración
+Tiempo de elaboración:
 
 ### Fase 6: Implantación
 
