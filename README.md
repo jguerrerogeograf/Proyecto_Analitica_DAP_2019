@@ -4,7 +4,7 @@ Este es el repositorio donde se encuentra toda la información relacionada con e
 ## Metodología a aplicar
 Para este proyecto se utilizará la metodología CRISP DM. Esta se compone de las siguentes fases:
 ### Fase 1: Comprensión del negocio 
-Comprensión del negocio
+Comprensión del negocio.
 Tiempo de elaboración: de 05 de julio a 12 de julio
 ### Fase 2: Comprensión de los datos
 Comprensión de los datos
