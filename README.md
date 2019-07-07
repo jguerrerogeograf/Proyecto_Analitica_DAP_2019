@@ -3,18 +3,20 @@ Este es el repositorio donde se encuentra toda la información relacionada con e
 
 ## Metodología a aplicar
 Para este proyecto se utilizará la metodología CRISP DM. Esta se compone de las siguentes fases:
+## Fase 1: Comprensión del negocio 
+Comprensión del negocio
 
-{
- "cells": [
-  {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "# Nivel 1\n",
-    "## Nivel 2\n",
-    "### Nivel 3\n",
-    "#### Nivel 4\n",
-    "\n",
-    "Esta es una prueba del uso del markdown"
-   ]
-  },
+## Fase 2: Comprensión de los datos
+Comprensión de los datos
+
+## Fase 3: Preparación de los datos
+Preparación de los datos
+
+## Fase 4: Modelado
+Modelado
+
+## Fase 5: Evaluación
+
+
+## Fase 6: Implantación
+
