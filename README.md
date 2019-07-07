@@ -6,7 +6,7 @@ Para este proyecto se utilizará la metodología CRISP DM. Esta se compone de la
 
 ### Fase 1: Comprensión del negocio 
 
-Comprensión del negocio.
+Aglutina todas las tareas de comprensión de los objetivos y requisitos del proyecto desde una perspectiva institucional, con el fin de convertirlos en objetivos técnicos y en un ## plan del proyecto
 
 Tiempo de elaboración: de 05 de julio a 12 de julio
 
