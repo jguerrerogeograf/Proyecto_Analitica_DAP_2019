@@ -5,8 +5,13 @@ Este es el repositorio donde se encuentra toda la información relacionada con e
 Para este proyecto se utilizará la metodología CRISP DM. Esta se compone de las siguentes fases:
 
 ##Fase 1: Comprensión del negocio
+
 ##Fase 2: Comprensión de los datos
+
 ##Fase 3: Preparación de los datos
 ##Fase 4: Modelado
+
 ##Fase 5: Evaluación
-##Fase 6: Implantación
+
+##Fase 6: Implantación##
+
