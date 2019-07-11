@@ -9,9 +9,7 @@ La compra de predios para la construcción de la infraestructura conlleva un des
    * El proyecto pretende integrar las diferentes unidades que conforman el Departamento Administrativo de Planeación.
         * Este proyecto engloba parte alfanumérica y parte de representación geográfica.
    * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención.
-   
+   * Identificar la información/datos disponibles que permitan modelizar este tipo de intervenciones o aquellas que tengan elementos parecidos.
       
-
-   
    
 # FASE 2: COMPRENSIÓN DE LOS DATOS
