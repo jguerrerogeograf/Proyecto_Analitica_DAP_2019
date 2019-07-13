@@ -14,3 +14,10 @@ La compra de predios para la construcción de la infraestructura conlleva un des
       
    
 # FASE 2: COMPRENSIÓN DE LOS DATOS
+Las capas de los indicadores son estos:
+
+|NOMBRE INDICADOR|INFFORMACION|
+|-----|----|
+|Estatro|Capa estrato catastro|
+|valor suelo|Mapa ZGE catastro|
+|Ambito estudio|Clip Arcgis|
