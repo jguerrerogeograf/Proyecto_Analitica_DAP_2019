@@ -10,7 +10,6 @@ Tanto si hay  compra de predios para la construcción de la infraestructura (con
    * El proyecto pretende integrar las diferentes unidades que conforman el Departamento Administrativo de Planeación.
         * Optimizar en un único proyecto grandes cantidades de información disponibles tanto en las dependencias municipales como en repositorios de datos abiertos (Medata).
         * Este proyecto engloba parte alfanumérica y parte de representación geográfica.     
-   * Identificar la información/datos disponibles que permitan modelizar este tipo de intervenciones o aquellas que tengan elementos parecidos.
    * Analizar y caracterizar el estado del sector antes y después de la obra identificando las transformaciones efectuadas.
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
  * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención.      
