@@ -13,11 +13,3 @@ La compra de predios para la construcción de la infraestructura conlleva un des
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
       
    
-# FASE 2: COMPRENSIÓN DE LOS DATOS
-Las capas de los indicadores son estos:
-
-|NOMBRE INDICADOR|INFORMACION|
-|-----|----|
-|Estatro|Capa estrato catastro|
-|valor suelo|Mapa ZGE catastro|
-|Ambito estudio|Clip Arcgis|
