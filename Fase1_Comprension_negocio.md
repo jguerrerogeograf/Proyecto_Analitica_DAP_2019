@@ -8,8 +8,7 @@ La compra de predios para la construcción de la infraestructura conlleva un des
 ## 1.2. Objetivos Específicos
    * El proyecto pretende integrar las diferentes unidades que conforman el Departamento Administrativo de Planeación.
         * Este proyecto engloba parte alfanumérica y parte de representación geográfica.
-   * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención.
    * Identificar la información/datos disponibles que permitan modelizar este tipo de intervenciones o aquellas que tengan elementos parecidos.
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
-      
+ * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención.      
    
