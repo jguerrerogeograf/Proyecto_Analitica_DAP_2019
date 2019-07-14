@@ -12,5 +12,5 @@ Tanto si hay  compra de predios para la construcción de la infraestructura (con
         * Este proyecto engloba parte alfanumérica y parte de representación geográfica.     
    * Analizar y caracterizar el estado del sector antes y después de la obra identificando las transformaciones efectuadas.
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
- * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención.      
+ * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las grandes obras de infraestructura en el tejido socio-económico del ámbito de intervención y de esta forma ayudar a tomar medidas correctoras más eficientes en aquellas temáticas que presentan mayores debilidades.   
    
