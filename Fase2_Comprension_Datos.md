@@ -6,7 +6,7 @@
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|
 |-----|-----|-----|-----|
-|Ámbito Estudio|Identificación del sector a analizar|Por construir|Geográfico|
+|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento que afectan al proyecto|DAP|Geográfico|
 |Manzana|Delimitación de las manzanas afectadas en el proyecto|Catastro|Geográfico|
 |Lotes|Delimitación de los lotes afectados en el proyecto|Catastro|Geográfico|
