@@ -1,6 +1,6 @@
 
 # FASE 2: COMPRENSIÓN DE LOS DATOS
-## Caracterización del sector en la etapa anterior al proyecto:
+## Caracterización del sector en la etapa anterior/posterior al proyecto:
 
 * INFORMACIÓN URBANÍSTICA-CARACTERIZACIÓN DEL PROYECTO
 
