@@ -11,15 +11,14 @@
 |Manzana|Delimitación de las manzanas afectadas en el proyecto|Catastro|Geográfico|
 |Lotes|Delimitación de los lotes afectados en el proyecto|Catastro|Geográfico|
 
-* INFORMACIÓN ECONÓMICA
+* INFORMACIÓN SOCIO-ECONÓMICA
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|
 |-----|-----|-----|-----|
 |Estrato|Estrato predominante por sector|DAP|Geográfico|
 |ZGE|Valor del suelo según zonas geoconómicas|Catastro|Geográfico|
-
-* INFORMACIÓN SOCIAL
-
-|NOMBRE |INFORMACION|FUENTE|FORMATO|
-|-----|-----|-----|-----|
-|Habitantes|Caracterización población|DAP|Alfanumérico|
+|Población|Datos de población, varios años|DAP|Alfanumérico|
+|Proyección de población|Datos proyecciones de población, varios años|DAP|Alfanumérico|
+|Encuesta Calidad de vida|Datos encuesta calidad de vida 2011-2017|DAP|Alfanumérico|
+|Gran encuesta integrada de hogares|Datos Gran encuesta integrada de hogares, varios años|DAP|Alfanumérico|
+|Sisben|Datos Sisben, varios años|DAP|Alfanumérico|
