@@ -17,8 +17,8 @@
 |-----|-----|-----|-----|
 |Estrato|Estrato predominante por sector|DAP|Geográfico|
 |ZGE|Valor del suelo según zonas geoconómicas|Catastro|Geográfico|
-|Población|Datos de población, varios años|DAP|Alfanumérico|
-|Proyección de población|Datos proyecciones de población, varios años|DAP|Alfanumérico|
+|Población 2005-2015|Datos de población, varios años|DAP|Alfanumérico|
+|Proyección de población 2016-2020|Datos proyecciones de población, varios años|DAP|Alfanumérico|
 |Encuesta Calidad de vida|Datos encuesta calidad de vida 2011-2017|DAP|Alfanumérico|
 |Gran encuesta integrada de hogares|Datos Gran encuesta integrada de hogares, varios años|DAP|Alfanumérico|
 |Sisben|Datos Sisben, varios años|DAP|Alfanumérico|
