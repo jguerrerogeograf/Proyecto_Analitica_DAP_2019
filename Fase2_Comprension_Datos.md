@@ -8,7 +8,7 @@
 |-----|-----|-----|-----|
 |Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento que afectan al proyecto|DAP|Geográfico|
-|Lotes|Delimitación de los lotes afectados en el proyecto|Catastro|Geográfico|
+|Lotes|Delimitación de los lotes que intervienen en el ámbito de estudio|Catastro|Geográfico|
 |Líneas Sistema|Delimitación del recorrido de la línea de transporte|DAP|Geográfico|
 |Estaciones Sistema|Ubicación de las estaciones de transporte|DAP|Geográfico|
 
