@@ -2,14 +2,15 @@
 # FASE 2: COMPRENSIÓN DE LOS DATOS
 ## Caracterización del sector en la etapa anterior al proyecto:
 
-* INFORMACIÓN URBANÍSTICA
+* INFORMACIÓN URBANÍSTICA-CARACTERIZACIÓN DEL PROYECTO
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|
 |-----|-----|-----|-----|
 |Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento que afectan al proyecto|DAP|Geográfico|
-|Manzana|Delimitación de las manzanas afectadas en el proyecto|Catastro|Geográfico|
 |Lotes|Delimitación de los lotes afectados en el proyecto|Catastro|Geográfico|
+|Líneas Sistema|Delimitación del recorrido de la línea de transporte|DAP|Geográfico|
+|Estaciones Sistema|Ubicación de las estaciones de transporte|DAP|Geográfico|
 
 * INFORMACIÓN SOCIO-ECONÓMICA
 
