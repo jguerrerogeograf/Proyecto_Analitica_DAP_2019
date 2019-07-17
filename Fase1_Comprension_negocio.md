@@ -1,6 +1,6 @@
 # FASE 1: COMPRENSIÓN DEL NEGOCIO
 ## 1. Descripción de la propuesta
-Se propone crear un modelo que determine el *impacto de la construcción de una obra de infraestructura de transporte en el tejido urbano, económico y social de la ciudad de Medellín: el caso del tranvía de Ayacucho (o el corredor de la 30 del metroplus)*
+Se propone crear un modelo que determine el *impacto de la construcción de una obra de infraestructura de transporte en el tejido urbano, económico y social de la ciudad de Medellín: el caso de la construcción del metrocable*
 ## 1.1. Objetivo general
 La construcción de obras de infraestructura asociadas al transporte público masivo son elementos detonadores de grandes transformaciones en el territorio sobre los que transcurren. Si bien, desde un punto de vista positivo, porque generan una reducción en el número de usuarios de transporte privado (motocicletas y automóviles) también se generan impactos negativos; estos se relacionan al cambio de tejido social y económico. 
 
