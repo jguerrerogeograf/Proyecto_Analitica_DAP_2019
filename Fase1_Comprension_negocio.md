@@ -8,7 +8,7 @@ Tanto si hay  compra de predios para la construcción de la infraestructura (con
 
 ## 1.2. Objetivos Específicos
    * El proyecto pretende integrar las diferentes unidades que conforman el Departamento Administrativo de Planeación.
-        * Optimizar en un único proyecto grandes cantidades de información disponibles tanto en las dependencias municipales como en repositorios de datos abiertos (Medata).
+        * Optimizar en un único proyecto grandes cantidades de información alfanumérica y geográfica disponibles tanto en las dependencias municipales como en repositorios de datos abiertos (Geomedellin y Medata).
         * Este proyecto engloba parte alfanumérica y parte de representación geográfica.     
    * Analizar y caracterizar el estado del sector antes y después de la obra identificando las transformaciones efectuadas.
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
