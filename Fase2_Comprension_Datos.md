@@ -9,7 +9,6 @@
 |Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|x|
 |Barrio|Identificación del (los) barrio (s) que impacta(n) el proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento urbanos que afectan al proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/tratamientos|
-|Usos suelo|Identificación de los usos del suelo urbano en el sector del proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/usos-generales-suelo-urbano|
 |Lotes|Delimitación de los lotes que intervienen en el ámbito de estudio|Catastro|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/lote-del-predio|
 |Líneas Sistema|Delimitación del recorrido de la línea de transporte|DAP|Geográfico|x|
 |Estaciones Sistema|Ubicación de las estaciones de transporte|DAP|Geográfico|x|
