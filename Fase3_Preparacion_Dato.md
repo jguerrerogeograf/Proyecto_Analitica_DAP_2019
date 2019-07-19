@@ -1,6 +1,5 @@
 
 # FASE 3: PREPARACIÓN DE LOS DATOS
-
 ## Para los datos de caracter geográfico se tendrán en cuenta los siguientes aspectos para evaluar la calidad de los mismos.
 
 
@@ -11,7 +10,6 @@
 
 
 ## Para los datos de caracter alfanumérico se tendrán en cuenta los siguientes aspectos para evaluar la calidad de los mismos.
-
 * 1
 * 2
 * 3
