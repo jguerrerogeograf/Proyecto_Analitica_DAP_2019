@@ -10,8 +10,8 @@
 |Barrio|Identificación del (los) barrio (s) que impacta(n) el proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento urbanos que afectan al proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/tratamientos|
 |Lotes|Delimitación de los lotes que intervienen en el ámbito de estudio|Catastro|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/lote-del-predio|
-|Líneas Sistema|Delimitación del recorrido de la línea de transporte|DAP|Geográfico|x|
-|Estaciones Sistema|Ubicación de las estaciones de transporte|DAP|Geográfico|x|
+|Línea Metrocable|Delimitación del recorrido del metrocable objeto de estudio|DAP|Geográfico|x|
+|Estación Metrocable|Ubicación de las estaciones del metrocable objeto de estudio|DAP|Geográfico|x|
 
 * INFORMACIÓN SOCIO-ECONÓMICA
 
