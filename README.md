@@ -20,7 +20,7 @@ Recolección inicial de datos, con el objetivo de establecer un primer contacto 
 
 Incluye las tareas generales de selección de datos a los que se va a aplicar una determinada técnica de modelado, limpieza de datos, generación de variables adicionales, integración de diferentes orígenes de datos y cambios de formato
 
-*Tiempo de elaboración:*
+*Tiempo de elaboración:de 18 de julio a 1 de agosto*
 
 ### Fase 4: Modelado
 
