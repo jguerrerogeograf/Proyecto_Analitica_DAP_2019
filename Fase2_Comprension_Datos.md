@@ -4,9 +4,9 @@
 
 * INFORMACIÓN URBANÍSTICA-CARACTERIZACIÓN DEL PROYECTO
 
-|NOMBRE |INFORMACION|FUENTE|FORMATO|
-|-----|-----|-----|-----|
-|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|
+|NOMBRE |INFORMACION|FUENTE|FORMATO|UBICACIÓN|
+|-----|-----|-----|-----|-----|
+|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento que afectan al proyecto|DAP|Geográfico|
 |Lotes|Delimitación de los lotes que intervienen en el ámbito de estudio|Catastro|Geográfico|
 |Líneas Sistema|Delimitación del recorrido de la línea de transporte|DAP|Geográfico|
