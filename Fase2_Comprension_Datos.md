@@ -6,7 +6,7 @@
 
 |NOMBRE |INFORMACION|FUENTE|FORMATO|UBICACIÓN|
 |-----|-----|-----|-----|-----|
-|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/tratamientos
+|Ámbito Estudio|Identificación del sector a analizar|Elaboración propia|Geográfico|
 |Barrio|Identificación del (los) barrio (s) que impacta(n) el proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/barrio-vereda|
 |Polígono tratamiento|Identificación de los polígonos de tratamiento urbanos que afectan al proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/tratamientos|
 |Usos suelo|Identificación de los usos del suelo urbano en el sector del proyecto|DAP|Geográfico|https://geomedellin-m-medellin.opendata.arcgis.com/datasets/usos-generales-suelo-urbano|
