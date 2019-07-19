@@ -3,7 +3,7 @@
 ## Para los datos de carácter geográfico se tendrán en cuenta los siguientes aspectos para evaluar la calidad de los mismos.
 
 
-* 1
+* Todas las capas geográficas se encuentran en sistema de coordenadas geográficas wgs84
 * 2
 * 3
 * 4
