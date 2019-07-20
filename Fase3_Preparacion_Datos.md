@@ -10,7 +10,7 @@
 
 |NOMBRE CAPA|VISUALIZACIÓN|
 |-----|-----|
-|Barrio| |
+|Barrio| ![Barrios](https://user-images.githubusercontent.com/45660997/61579388-f4940300-aac9-11e9-9639-63ab6e81202b.PNG)|
 
 
 ## Para los datos de carácter alfanumérico se tendrán en cuenta los siguientes aspectos para evaluar la calidad de los mismos.
