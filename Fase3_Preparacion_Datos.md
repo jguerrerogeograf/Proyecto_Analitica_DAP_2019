@@ -7,6 +7,7 @@
 * Los nombres de las capas geográficas no excederán los 40 caracteres
 * 3
 * 4
+
 |NOMBRE CAPA|VISUALIZACIÓN|
 |-----|-----|
 |Barrio| |
