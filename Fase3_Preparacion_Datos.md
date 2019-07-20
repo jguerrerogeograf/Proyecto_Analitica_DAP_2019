@@ -12,8 +12,8 @@
 |-----|-----|
 |Barrio| ![Barrios](https://user-images.githubusercontent.com/45660997/61579388-f4940300-aac9-11e9-9639-63ab6e81202b.PNG)|
 |Lotes| ![Lotes](https://user-images.githubusercontent.com/45660997/61579403-2311de00-aaca-11e9-8e4f-383c46572740.PNG)|
-|Tratamientos| |
-|ZGE| |
+|Tratamientos|![Tratmientos](https://user-images.githubusercontent.com/45660997/61579432-99164500-aaca-11e9-9cf0-800c03282702.PNG) |
+|ZGE|![ZGE](https://user-images.githubusercontent.com/45660997/61579438-a7fcf780-aaca-11e9-9fb3-a795da4b3b2c.PNG) |
 
 
 ## Para los datos de carácter alfanumérico se tendrán en cuenta los siguientes aspectos para evaluar la calidad de los mismos.
