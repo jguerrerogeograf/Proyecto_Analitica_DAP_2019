@@ -6,7 +6,10 @@
 * Todas las capas geográficas se encuentran en sistema de coordenadas geográficas wgs84 (EPSG 4326)
 * Los nombres de las capas geográficas no excederán los 40 caracteres
 * Se delimitará la parte del análisis únicamente a la área de intervención del proyecto.
-* 4
+
+|NOMBRE CAPA|IMAGEN|
+|_____|_____|
+
 * 5
 * 6
 
