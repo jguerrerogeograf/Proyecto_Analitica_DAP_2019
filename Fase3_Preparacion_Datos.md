@@ -13,7 +13,7 @@
 |BARRIOS|<img width="872" alt="01_Barrios" src="https://user-images.githubusercontent.com/45660997/61841977-2a374400-ae5c-11e9-83d9-876a44cbe353.png">|
 |TRATAMIENTOS|<img width="958" alt="02_Tratamientos" src="https://user-images.githubusercontent.com/45660997/61842025-505ce400-ae5c-11e9-8bf5-90324d49c6b8.png">|
 |LOTES|<img width="870" alt="03_Lotes" src="https://user-images.githubusercontent.com/45660997/61842132-b5183e80-ae5c-11e9-908e-7ea18c6bcb0a.png">|
-|ZONAS GEOECONÓMICAS (ZGE)| |
+|ZONAS GEOECONÓMICAS (ZGE)| <img width="862" alt="04_ZGE" src="https://user-images.githubusercontent.com/45660997/61842189-e85acd80-ae5c-11e9-907e-a375e6419044.png">|
 
 
 
