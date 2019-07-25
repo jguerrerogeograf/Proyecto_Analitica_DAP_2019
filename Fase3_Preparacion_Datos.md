@@ -10,6 +10,7 @@
 
 |NOMBRE CAPA|IMAGEN|
 |-----|-----|
+|BARRIOS|
 
 
 * 5
