@@ -7,8 +7,10 @@
 * Los nombres de las capas geográficas no excederán los 40 caracteres
 * Se delimitará la parte del análisis únicamente a la área de intervención del proyecto.
 
+
 |NOMBRE CAPA|IMAGEN|
 |_____|_____|
+
 
 * 5
 * 6
