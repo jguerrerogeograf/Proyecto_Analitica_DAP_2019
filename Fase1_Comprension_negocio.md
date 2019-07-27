@@ -14,3 +14,5 @@ Tanto si hay  compra de predios para la construcción de la infraestructura (con
    * Establecer unos indicadores clave de desempeño (KPI) que permitan evaluar los proyectos futuros de este tipo que se vayan a ir desarrollando en la ciudad
  * El éxito de este modelo es que pueda ser utilizado para estimar los impactos de las obras de infraestructura en el tejido socio-económico del ámbito de intervención y de esta forma ayudar a tomar medidas correctoras más eficientes en aquellas temáticas que presentan mayores debilidades.   
    
+## 1.3. Objetivo de la parte analítica
+* El proyecto, en su parte analítica, busca...
